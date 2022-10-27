@@ -1,5 +1,5 @@
 {
-  "name": "remixapp",
+  "name": "@rober/remixapp",
   "version": "0.1.2-alpha.0",
   "license": "ISC",
   "sideEffects": false,

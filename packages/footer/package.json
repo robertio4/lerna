@@ -1,5 +1,5 @@
 {
-  "name": "footer",
+  "name": "@rober/footer",
   "version": "0.0.5-alpha.0",
   "license": "ISC",
   "main": "dist/index.js",
