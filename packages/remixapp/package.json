@@ -1,6 +1,7 @@
 {
   "name": "remixapp",
   "version": "0.1.0",
+  "license": "ISC",
   "sideEffects": false,
   "scripts": {
     "build": "remix build",
@@ -40,5 +41,6 @@
         ]
       }
     }
-  }
+  },
+  "gitHead": "bac4a27cb9e92d1c5d33ba9bb62db3da8bd0c024"
 }
